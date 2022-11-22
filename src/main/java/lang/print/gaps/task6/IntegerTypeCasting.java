@@ -5,8 +5,8 @@ public class IntegerTypeCasting {
         long first = 1000;
         int second = 1000;
         first = second;
-        System.out.println(first);
-        System.out.println(second);
+        System.out.println(""+first+second);
+
     }
 }
 
